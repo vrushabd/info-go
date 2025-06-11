@@ -1,0 +1,36 @@
+.container{
+    position: absolute;
+    top: 20%;
+}
+p{
+    color: rgb(69, 123, 170);
+  }
+  .form-control{
+    height: 100px;
+    text-overflow: inherit;
+  }
+  .btn-primary{
+  
+    margin-top: 20px;
+    margin-left: 10px;
+  }
+  input {
+    min-width: 0;
+    width: 100%;
+  }
+
+   
+   .info{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+   top: 50%;
+  }
+  
+
+  nav{
+    background-color: rgb(64, 96, 125);
+  }
